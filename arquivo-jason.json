@@ -1,0 +1,12 @@
+{
+    "status": "off",
+    "config": {
+      "feature_1": true,
+      "feature_2": false
+    },
+    "metadata": {
+      "version": "1.0",
+      "author": "Seu Nome",
+      "date": "2024-11-21"
+    }
+  }
