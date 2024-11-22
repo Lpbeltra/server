@@ -1,5 +1,5 @@
 {
-    "status": "off",
+    "status": "on",
     "config": {
       "feature_1": true,
       "feature_2": false
